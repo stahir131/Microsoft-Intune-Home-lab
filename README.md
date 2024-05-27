@@ -31,4 +31,6 @@ Autopilot deployment profiles are used to configure the Autopilot devices. Up to
 
 <b>Steps</b></br>Intune admin center > Devices > Windows > Windows enrollment > Deployment Profiles > Create Profiles> Give it a name
 
+![Screenshot 2024-05-26 220349](https://github.com/stahir131/Microsoft-Intune-Home-lab/assets/64047385/d6ead02e-b6d1-473a-9c98-0f7c385652a1)
+
 <b></b></br>
