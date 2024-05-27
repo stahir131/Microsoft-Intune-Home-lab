@@ -17,9 +17,13 @@ This is just a simple home lab to practice and document some Intune skills I'm c
 
 Microsoft will set up a <b>.onmicrosoft.com</b> tenant for you if you do a one month trial version of Microsoft Business Premium [here](https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-us&country=us&ali=1) or any other Intune-eligible licenses. A credit card is needed and just ensure to cancel your subscription before 29 days</br>
 - Users and devices to be Intune-joined
-</br>With this trial I have 25 Business Premium licenses so I created 4 users(1,2,3,4) with 1 admin user. 
+</br>With this trial I have 25 Business Premium licenses so I created 4 users(1,2,3,4) with 1 admin user.
+![Screenshot 2024-05-26 214950](https://github.com/stahir131/Microsoft-Intune-Home-lab/assets/64047385/be72310a-d912-4e56-aa72-4b2a7dfb8f5a)
 
-<b></b></br>
-<b></b></br>
+
+<b>Devices:</b></br>I have created three windows 10 virtual machines on the Hyper-V host named
+Admin PC, HR-PC and ENG. LT
+
+<p align="center"><b>Creating Deployment profile -</b></p></br>
 <b></b></br>
 <b></b></br>
