@@ -22,8 +22,13 @@ Microsoft will set up a <b>.onmicrosoft.com</b> tenant for you if you do a one m
 
 
 <b>Devices:</b></br>I have created three windows 10 virtual machines on the Hyper-V host named
-Admin PC, HR-PC and ENG. LT
+Admin PC, HR-PC and ENG. LT shown below</br>
+![Screenshot 2024-05-26 215542](https://github.com/stahir131/Microsoft-Intune-Home-lab/assets/64047385/684ee9ef-2ee7-4076-8248-7f55a9c55de1)</br>
 
-<p align="center"><b>Creating Deployment profile -</b></p></br>
-<b></b></br>
+
+<b>Creating Deployment profile</b></br>
+Autopilot deployment profiles are used to configure the Autopilot devices. Up to 350 profiles can be created per tenant.
+
+<b>Steps</b></br>Intune admin center > Devices > Windows > Windows enrollment > Deployment Profiles > Create Profiles> Give it a name
+
 <b></b></br>
