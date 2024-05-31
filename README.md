@@ -26,7 +26,7 @@ Admin PC, HR-PC and ENG. LT shown below<br />
 
 
 <b>Creating Deployment profile</b><br />
-Autopilot deployment profiles are used to configure the Autopilot devices. Up to 350 profiles can be created per tenant.
+Autopilot deployment profiles are used to configure the Autopilot devices. Up to 350 profiles can be created per tenant. Simply put, Windows Autopilot deployment profiles lets you customize the out-of-box experience for your devices.
 
 <b>Steps</b><br />
 Intune admin center -> Devices -> Windows -> Windows enrollment -> Deployment Profiles -> Create Profiles> Give it a name
