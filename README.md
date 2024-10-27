@@ -1,4 +1,7 @@
-<b><p align="center">Microsoft Intune Homelab</p></b>
+<p align="center">
+<b>Microsoft Intune Homelab</b>
+</p>
+
 Microsoft Intune is a cloud-based endpoint management solution. It manages user access to organizational resources and simplifies app and device management across your many devices, including mobile devices, desktop computers, and virtual endpoints.<br />
 
 <b>Windows Autopilot</b><br />
